@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ashok Krishnan
-- 👀 I’m a web developmer.
+- 👀 I’m a web developer.
 - 💞️ I’m looking to collaborate on MERN projects.
 
 <!---
